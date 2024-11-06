@@ -1,0 +1,15 @@
+path: C:\Users\rajes\OneDrive\Desktop\DAYUMMMMMMMMM\CNN\archive  # dataset root dir
+train: train1/images  # train images (relative to 'path')
+val: train1/val  # val images (relative to 'path')
+test: test1/images  # test images (relative to 'path')
+
+# Classes
+names:
+  0: Cattle
+  1: Bull
+  2: Chicken
+  3: Duck
+  4: Camel
+  5: Goat
+  6: Pig
+  7: Sheep

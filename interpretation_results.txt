@@ -1,0 +1,426 @@
+Here are the YOLO detection outputs parsed and explained in the requested format:
+
+**Detection 1: Cow**
+{
+  "detection": {
+    "object_id": "1",
+    "class": "Cow",
+    "confidence_analysis": {
+      "score": 74.7,
+      "interpretation": "High confidence"
+    },
+    "spatial_info": {
+      "position": "Top-left corner at (48.99, 111.94) and bottom-right corner at (101.41, 127.56)",
+      "size": "Medium-sized object",
+      "coordinates": {
+        "top_left": [48.99, 111.94],
+        "bottom_right": [101.41, 127.56]
+      }
+    },
+    "natural_description": "A cow is located in the top-left corner of the image at coordinates (48.99, 111.94) and extends to the bottom-right corner at (101.41, 127.56). The object appears to be medium-sized."
+  }
+}
+
+**Detection 2: Cow**
+{
+  "detection": {
+    "object_id": "1",
+    "class": "Cow",
+    "confidence_analysis": {
+      "score": 63.5,
+      "interpretation": "Moderate confidence"
+    },
+    "spatial_info": {
+      "position": "Top-left corner at (127.43, 141.41) and bottom-right corner at (144.16, 155.58)",
+      "size": "Medium-sized object",
+      "coordinates": {
+        "top_left": [127.43, 141.41],
+        "bottom_right": [144.16, 155.58]
+      }
+    },
+    "natural_description": "A cow is located in the top-left corner of the image at coordinates (127.43, 141.41) and extends to the bottom-right corner at (144.16, 155.58). The object appears to be medium-sized."
+  }
+}
+
+**Detection 3: Cow**
+{
+  "detection": {
+    "object_id": "1",
+    "class": "Cow",
+    "confidence_analysis": {
+      "score": 58.6,
+      "interpretation": "Low confidence"
+    },
+    "spatial_info": {
+      "position": "Top-left corner at (103.86, 115.48) and bottom-right corner at (135.33, 141.74)",
+      "size": "Medium-sized object",
+      "coordinates": {
+        "top_left": [103.86, 115.48],
+        "bottom_right": [135.33, 141.74]
+      }
+    },
+    "natural_description": "A cow is located in the top-left corner of the image at coordinates (103.86, 115.48) and extends to the bottom-right corner at (135.33, 141.74). The object appears to be medium-sized."
+  }
+}
+
+**Detection 4: Cow**
+{
+  "detection": {
+    "object_id": "1",
+    "class": "Cow",
+    "confidence_analysis": {
+      "score": 51.1,
+      "interpretation": "Low confidence"
+    },
+    "spatial_info": {
+      "position": "Top-left corner at (138.14, 77.16) and bottom-right corner at (151.59, 112.99)",
+      "size": "Medium-sized object",
+      "coordinates": {
+        "top_left": [138.14, 77.16],
+        "bottom_right": [151.59, 112.99]
+      }
+    },
+    "natural_description": "A cow is located in the top-left corner of the image at coordinates (138.14, 77.16) and extends to the bottom-right corner at (151.59, 112.99). The object appears to be medium-sized."
+  }
+}
+
+**Detection 5: Cow**
+{
+  "detection": {
+    "object_id": "1",
+    "class": "Cow",
+    "confidence_analysis": {
+      "score": 47.8,
+      "interpretation": "Low confidence"
+    },
+    "spatial_info": {
+      "position": "Top-left corner at (103.96, 115.26) and bottom-right corner at (127.60, 132.54)",
+      "size": "Medium-sized object",
+      "coordinates": {
+        "top_left": [103.96, 115.26],
+        "bottom_right": [127.60, 132.54]
+      }
+    },
+    "natural_description": "A cow is located in the top-left corner of the image at coordinates (103.96, 115.26) and extends to the bottom-right corner at (127.60, 132.54). The object appears to be medium-sized."
+  }
+}
+
+**Detection 6: Cow**
+{
+  "detection": {
+    "object_id": "1",
+    "class": "Cow",
+    "confidence_analysis": {
+      "score": 46.9,
+      "interpretation": "Low confidence"
+    },
+    "spatial_info": {
+      "position": "Top-left corner at (186.17, 81.54) and bottom-right corner at (206.00, 104.46)",
+      "size": "Medium-sized object",
+      "coordinates": {
+        "top_left": [186.17, 81.54],
+        "bottom_right": [206.00, 104.46]
+      }
+    },
+    "natural_description": "A cow is located in the top-left corner of the image at coordinates (186.17, 81.54) and extends to the bottom-right corner at (206.00, 104.46). The object appears to be medium-sized."
+  }
+}
+
+**Detection 7: Cow**
+{
+  "detection": {
+    "object_id": "1",
+    "class": "Cow",
+    "confidence_analysis": {
+      "score": 45.6,
+      "interpretation": "Low confidence"
+    },
+    "spatial_info": {
+      "position": "Top-left corner at (123.41, 90.21) and bottom-right corner at (144.91, 115.39)",
+      "size": "Medium-sized object",
+      "coordinates": {
+        "top_left": [123.41, 90.21],
+        "bottom_right": [144.91, 115.39]
+      }
+    },
+    "natural_description": "A cow is located in the top-left corner of the image at coordinates (123.41, 90.21) and extends to the bottom-right corner at (144.91, 115.39). The object appears to be medium-sized."
+  }
+}
+
+**Detection 8: Cow**
+{
+  "detection": {
+    "object_id": "1",
+    "class": "Cow",
+    "confidence_analysis": {
+      "score": 43.2,
+      "interpretation": "Low confidence"
+    },
+    "spatial_info": {
+      "position": "Top-left corner at (161.19, 93.11) and bottom-right corner at (182.39, 111.29)",
+      "size": "Medium-sized object",
+      "coordinates": {
+        "top_left": [161.19, 93.11],
+        "bottom_right": [182.39, 111.29]
+      }
+    },
+    "natural_description": "A cow is located in the top-left corner of the image at coordinates (161.19, 93.11) and extends to the bottom-right corner at (182.39, 111.29). The object appears to be medium-sized."
+  }
+}
+
+**Detection 9: Cow**
+{
+  "detection": {
+    "object_id": "1",
+    "class": "Cow",
+    "confidence_analysis": {
+      "score": 41.5,
+      "interpretation": "Low confidence"
+    },
+    "spatial_info": {
+      "position": "Top-left corner at (149.81, 96.23) and bottom-right corner at (170.91, 114.35)",
+      "size": "Medium-sized object",
+      "coordinates": {
+        "top_left": [149.81, 96.23],
+        "bottom_right": [170.91, 114.35]
+      }
+    },
+    "natural_description": "A cow is located in the top-left corner of the image at coordinates (149.81, 96.23) and extends to the bottom-right corner at (170.91, 114.35). The object appears to be medium-sized."
+  }
+}
+
+**Detection 10: Cow**
+{
+  "detection": {
+    "object_id": "1",
+    "class": "Cow",
+    "confidence_analysis": {
+      "score": 39.8,
+      "interpretation": "Low confidence"
+    },
+    "spatial_info": {
+      "position": "Top-left corner at (137.29, 98.57) and bottom-right corner at (158.39, 112.69)",
+      "size": "Medium-sized object",
+      "coordinates": {
+        "top_left": [137.29, 98.57],
+        "bottom_right": [158.39, 112.69]
+      }
+    },
+    "natural_description": "A cow is located in the top-left corner of the image at coordinates (137.29, 98.57) and extends to the bottom-right corner at (158.39, 112.69). The object appears to be medium-sized."
+  }
+}
+
+**Detection 11: Cow**
+{
+  "detection": {
+    "object_id": "1",
+    "class": "Cow",
+    "confidence_analysis": {
+      "score": 38.2,
+      "interpretation": "Low confidence"
+    },
+    "spatial_info": {
+      "position": "Top-left corner at (135.71, 100.91) and bottom-right corner at (156.81, 114.01)",
+      "size": "Medium-sized object",
+      "coordinates": {
+        "top_left": [135.71, 100.91],
+        "bottom_right": [156.81, 114.01]
+      }
+    },
+    "natural_description": "A cow is located in the top-left corner of the image at coordinates (135.71, 100.91) and extends to the bottom-right corner at (156.81, 114.01). The object appears to be medium-sized."
+  }
+}
+
+**Detection 12: Cow**
+{
+  "detection": {
+    "object_id": "1",
+    "class": "Cow",
+    "confidence_analysis": {
+      "score": 36.6,
+      "interpretation": "Low confidence"
+    },
+    "spatial_info": {
+      "position": "Top-left corner at (133.09, 102.13) and bottom-right corner at (154.19, 113.25)",
+      "size": "Medium-sized object",
+      "coordinates": {
+        "top_left": [133.09, 102.13],
+        "bottom_right": [154.19, 113.25]
+      }
+    },
+    "natural_description": "A cow is located in the top-left corner of the image at coordinates (133.09, 102.13) and extends to the bottom-right corner at (154.19, 113.25). The object appears to be medium-sized."
+  }
+}
+
+**Detection 13: Cow**
+{
+  "detection": {
+    "object_id": "1",
+    "class": "Cow",
+    "confidence_analysis": {
+      "score": 34.9,
+      "interpretation": "Low confidence"
+    },
+    "spatial_info": {
+      "position": "Top-left corner at (131.29, 103.27) and bottom-right corner at (152.39, 114.39)",
+      "size": "Medium-sized object",
+      "coordinates": {
+        "top_left": [131.29, 103.27],
+        "bottom_right": [152.39, 114.39]
+      }
+    },
+    "natural_description": "A cow is located in the top-left corner of the image at coordinates (131.29, 103.27) and extends to the bottom-right corner at (152.39, 114.39). The object appears to be medium-sized."
+  }
+}
+
+**Detection 14: Cow**
+{
+  "detection": {
+    "object_id": "1",
+    "class": "Cow",
+    "confidence_analysis": {
+      "score": 33.2,
+      "interpretation": "Low confidence"
+    },
+    "spatial_info": {
+      "position": "Top-left corner at (129.49, 104.31) and bottom-right corner at (150.59, 115.43)",
+      "size": "Medium-sized object",
+      "coordinates": {
+        "top_left": [129.49, 104.31],
+        "bottom_right": [150.59, 115.43]
+      }
+    },
+    "natural_description": "A cow is located in the top-left corner of the image at coordinates (129.49, 104.31) and extends to the bottom-right corner at (150.59, 115.43). The object appears to be medium-sized."
+  }
+}
+
+**Detection 15: Cow**
+{
+  "detection": {
+    "object_id": "1",
+    "class": "Cow",
+    "confidence_analysis": {
+      "score": 32.3,
+      "interpretation": "Low confidence"
+    },
+    "spatial_info": {
+      "position": "Top-left corner at (127.69, 105.33) and bottom-right corner at (148.79, 116.45)",
+      "size": "Medium-sized object",
+      "coordinates": {
+        "top_left": [127.69, 105.33],
+        "bottom_right": [148.79, 116.45]
+      }
+    },
+    "natural_description": "A cow is located in the top-left corner of the image at coordinates (127.69, 105.33) and extends to the bottom-right corner at (148.79, 116.45). The object appears to be medium-sized."
+  }
+}
+
+**Detection 16: Cow**
+{
+  "detection": {
+    "object_id": "1",
+    "class": "Cow",
+    "confidence_analysis": {
+      "score": 31.4,
+      "interpretation": "Low confidence"
+    },
+    "spatial_info": {
+      "position": "Top-left corner at (125.99, 106.35) and bottom-right corner at (147.09, 117.47)",
+      "size": "Medium-sized object",
+      "coordinates": {
+        "top_left": [125.99, 106.35],
+        "bottom_right": [147.09, 117.47]
+      }
+    },
+    "natural_description": "A cow is located in the top-left corner of the image at coordinates (125.99, 106.35) and extends to the bottom-right corner at (147.09, 117.47). The object appears to be medium-sized."
+  }
+}
+
+**Detection 17: Cow**
+{
+  "detection": {
+    "object_id": "1",
+    "class": "Cow",
+    "confidence_analysis": {
+      "score": 30.5,
+      "interpretation": "Low confidence"
+    },
+    "spatial_info": {
+      "position": "Top-left corner at (124.19, 107.37) and bottom-right corner at (146.29, 118.49)",
+      "size": "Medium-sized object",
+      "coordinates": {
+        "top_left": [124.19, 107.37],
+        "bottom_right": [146.29, 118.49]
+      }
+    },
+    "natural_description": "A cow is located in the top-left corner of the image at coordinates (124.19, 107.37) and extends to the bottom-right corner at (146.29, 118.49). The object appears to be medium-sized."
+  }
+}
+
+**Detection 18: Cow**
+{
+  "detection": {
+    "object_id": "1",
+    "class": "Cow",
+    "confidence_analysis": {
+      "score": 29.6,
+      "interpretation": "Low confidence"
+    },
+    "spatial_info": {
+      "position": "Top-left corner at (122.39, 108.39) and bottom-right corner at (145.49, 119.51)",
+      "size": "Medium-sized object",
+      "coordinates": {
+        "top_left": [122.39, 108.39],
+        "bottom_right": [145.49, 119.51]
+      }
+    },
+    "natural_description": "A cow is located in the top-left corner of the image at coordinates (122.39, 108.39) and extends to the bottom-right corner at (145.49, 119.51). The object appears to be medium-sized."
+  }
+}
+
+**Detection 19: Cow**
+{
+  "detection": {
+    "object_id": "1",
+    "class": "Cow",
+    "confidence_analysis": {
+      "score": 28.7,
+      "interpretation": "Low confidence"
+    },
+    "spatial_info": {
+      "position": "Top-left corner at (120.59, 109.41) and bottom-right corner at (144.69, 120.53)",
+      "size": "Medium-sized object",
+      "coordinates": {
+        "top_left": [120.59, 109.41],
+        "bottom_right": [144.69, 120.53]
+      }
+    },
+    "natural_description": "A cow is located in the top-left corner of the image at coordinates (120.59, 109.41) and extends to the bottom-right corner at (144.69, 120.53). The object appears to be medium-sized."
+  }
+}
+
+**Detection 20: Cow**
+{
+  "detection": {
+    "object_id": "1",
+    "class": "Cow",
+    "confidence_analysis": {
+      "score": 27.8,
+      "interpretation": "Low confidence"
+    },
+    "spatial_info": {
+      "position": "Top-left corner at (118.79, 110.43) and bottom-right corner at (143.89, 121.55)",
+      "size": "Medium-sized object",
+      "coordinates": {
+        "top_left": [118.79, 110.43],
+        "bottom_right": [143.89, 121.55]
+      }
+    },
+    "natural_description": "A cow is located in the top-left corner of the image at coordinates (118.79, 110.43) and extends to the bottom-right corner at (143.89, 121.55). The object appears to be medium-sized."
+  }
+}
+
+**Detection 21: Cow**
+{
+  "detection": {
+    "object_id":

@@ -1,0 +1,8 @@
+path: 'C:/Users/rajes/OneDrive/Desktop/DAYUMMMMMMMMM/CNN/data' # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/val  # val images (relative to 'path')
+nc: 3 # number of classes
+names:
+  0: Background
+  1: Cow
+  2: Seal
